@@ -38,12 +38,12 @@ function HomepageHeader() {
               </Link>
               <Link
                 className="tochrome button button--outline button--secondary button--lg"
-                to="404">
+                to="https://github.com/nt-ultra/nt-ultra">
                 Chrome (soon)
               </Link>
               <Link
                 className="toedge button button--outline button--secondary button--lg"
-                to="404">
+                to="https://github.com/nt-ultra/nt-ultra">
                 Edge (soon)
               </Link>
             </div>
