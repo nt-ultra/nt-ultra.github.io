@@ -10,6 +10,7 @@ const config = {
   },
   url: 'https://nt-ultra.github.io',
   baseUrl: '/',
+  deploymentBranch: 'gh-pages',
   organizationName: 'nt-ultra',
   projectName: 'nt-ultra.github.io',
   onBrokenLinks: 'throw',
