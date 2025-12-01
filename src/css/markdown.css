@@ -20,11 +20,15 @@
         box-shadow: var(--ifm-alert-shadow);
         color: var(--ifm-alert-foreground-color);
         padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
+        --ifm-alert-border-color: none;
+        margin-bottom: 2em !important;
     }
 
     .alert--secondary {
-        --ifm-alert-background-color: rgba(150,150,150,0.1);
-        --ifm-alert-border-color: none;
+        --ifm-alert-background-color: rgba(150,150,150,0.1); 
+    }
+    .alert--warning {
+        --ifm-alert-background-color: rgba(255, 192, 58, 0.253);
     }
 
     [data-theme="dark"] {
