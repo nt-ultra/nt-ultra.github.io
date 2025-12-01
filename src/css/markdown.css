@@ -1,0 +1,35 @@
+@layer docusaurus.infima {
+    .markdown > h2 {
+        margin-top: calc(var(--ifm-h2-vertical-rhythm-top) * var(--ifm-leading) + 35px);
+        border-top: 1px solid rgba(75,75,75,0.2);
+        padding-top: 25px;
+    }
+
+    .alert {
+        --ifm-code-background: var(--ifm-alert-background-color-highlight);
+        --ifm-link-color: var(--ifm-alert-foreground-color);
+        --ifm-link-hover-color: var(--ifm-alert-foreground-color);
+        --ifm-link-decoration: underline;
+        --ifm-tabs-color: var(--ifm-alert-foreground-color);
+        --ifm-tabs-color-active: var(--ifm-alert-foreground-color);
+        --ifm-tabs-color-active-border: var(--ifm-alert-border-color);
+        background-color: var(--ifm-alert-background-color);
+        border: var(--ifm-alert-border-width) solid var(--ifm-alert-border-color);
+        border-left-width: var(--ifm-alert-border-left-width);
+        border-radius: var(--ifm-alert-border-radius);
+        box-shadow: var(--ifm-alert-shadow);
+        color: var(--ifm-alert-foreground-color);
+        padding: var(--ifm-alert-padding-vertical) var(--ifm-alert-padding-horizontal);
+    }
+
+    .alert--secondary {
+        --ifm-alert-background-color: rgba(150,150,150,0.1);
+        --ifm-alert-border-color: none;
+    }
+
+    [data-theme="dark"] {
+        .prism-code {
+            background-color: rgb(32, 32, 36) !important;
+        }
+    }
+}
