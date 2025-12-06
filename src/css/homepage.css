@@ -97,13 +97,13 @@
 .tochrome {
   background: linear-gradient(165deg, #6aa5fd 0%, #1c356b 100%);
   &:hover {
-  background: linear-gradient(165deg, #6aa5fd 0%, #1c356b 90%);
+    background: linear-gradient(165deg, #6aa5fd 0%, #1c356b 90%);
   }
 }
 .toedge {
   background: linear-gradient(165deg, #acacac 0%, #1d1d1d 100%);
   &:hover {
-  background: linear-gradient(165deg, #acacac 0%, #1d1d1d 90%);
+    background: linear-gradient(165deg, #acacac 0%, #1d1d1d 90%);
   }
 }
 

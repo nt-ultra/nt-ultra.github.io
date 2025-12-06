@@ -5,7 +5,7 @@ sidebar_position: 1
 # Getting Started
 
 :::warning
-NT ULTRA is currently in beta. Documentation is a WIP; Functions and features are subject to change as development is ongoing.
+NT ULTRA is currently in BETA. Documentation is a WIP; Functions and features are subject to change as development is ongoing.
 :::
 
 Inspired by Firefox's Home Page, New Tab Ultra gives you quick access to more of your favorite websites, more nav focused design, more customization, more choices, less clutter. NT Ultra is also pretty private! No tracking. Can run locally! Data stored locally. Synced data excludes Wallpapers. No other dependencies, besides Internet to take you to your next destination.

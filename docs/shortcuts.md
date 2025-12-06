@@ -10,7 +10,7 @@ Managing shortcuts is made to be extremely simple. Like Firefox with extra qol.
 
 You can create new shortcuts in a couple of ways
 
-- Manually via the `+ New Shortcut Button`
+- Manually via the `+ New` shortcut button
 - By dragging links into the shortcut grid
 - By dragging tabs from the `Tab Browser` into the shortcut grid
 - By importing saved shortcuts via `Settings` -> `Shortcuts`
