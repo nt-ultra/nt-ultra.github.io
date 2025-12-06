@@ -14,18 +14,10 @@ You can find helpful documentation for almost everything related to New Tab Ultr
 
 ## Install NT Ultra
 
-You can get the extension on the main platforms:
+New Tab Ultra is compatible with both Chromium and Firefox/gecko. You can get the extension on the main platforms:
+
+> Only in Firefox Store right now
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/new-tab-ultra-nt-ultra/"><img width="33%" height="auto" src="/img/addff.png" /></a>
 <a href=""><img width="33%" height="auto" src="/img/addchrome.png" /></a>
 <a href=""><img width="33%" height="auto" src="/img/addedge.png" /></a>
-
-
-## Run Locally (optional)
-
-In Firefox, with the exception of the Tab Browser, NT Ultra is fully functional when run locally (mostly due to prioritizing IndexDB). Firefox handles this in it's Settings, but a new tab override might be a viable approach as well.
-
-1. `git clone https://github.com/nt-ultra/nt-ultra.git`
-2. Firefox Settings > Home > Custom URL > `file:///path/to/nt-ultra/index.html`
-
-<img width="100%" height="auto" src="/img/firefoxlocal.png" />

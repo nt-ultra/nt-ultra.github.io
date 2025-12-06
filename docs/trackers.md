@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Trackers
 
-### Trackers are a new way to stay updated with your favorite content and sources through the use of RSS. New Tab Ultra provides dynamic trackers for the following:
+Trackers are a new way to stay updated with your favorite content and sources through the use of RSS. New Tab Ultra provides dynamic trackers for the following:
 
 | Tracker | Example |
 |---------|---------|
@@ -25,7 +25,9 @@ sidebar_position: 3
 | Weather | weather in New York, London weather, weather New York City, NY |
 | YouTube Channels | https://www.youtube.com/@rcjonnie |
 
-### While the methods used for tracking are all common, dependable, and no auth required:
+<br></br>
+
+The methods used for tracking are all common, dependable, and no auth required:
 
 | Method | Reason |
 |--------|--------|
