@@ -33,7 +33,7 @@ function HomepageHeader() {
             <div className="homepage-buttons">
               <Link
                 className="tofirefox button button--outline button--secondary button--lg"
-                to="https://addons.mozilla.org/en-US/firefox/addon/new-tab-ultra-nt-ultra/">
+                to="https://addons.mozilla.org/en-US/firefox/addon/nt-ultra/">
                 Firefox
               </Link>
               <Link

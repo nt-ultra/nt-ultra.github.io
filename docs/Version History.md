@@ -1,6 +1,44 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
+
+### <ins>NT Ultra 0.8-beta</ins>
+
+- New Setting for Custom CSS that follows active theme, in Expanded Display Section
+- Tabs Browser now has extended tab management and tab groups
+- Tabs can now be moved between windows or tab groups via dragdrop
+- Tabs now have a dedicated context menu, basic options for reload, pin, sleep, close, etc.
+- Tab Sections also have a dedicated context menu, right click to close all in a window, or put a whole group to sleep, etc.
+- Correction to Label Top positionings and grid
+- New searchbar providers: startpage, reddit, wikipedia, youtube
+- Context Menus now dodge screen edges
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/GJM8STOQPOg?si=_bDPV-mAvKzXhyHp" title="GitHub video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### <ins>NT Ultra 0.7-beta</ins>
+
+- Trackers Sidebar button more accurately represents the UI
+- Trackers also see some internal spacing improvement
+- Context menu options for turning links and tabs into shortcuts (outside of the extension)
+- New Display option to hide sidebar buttons off hover
+- New Searchbar feature with optional providers, enabled in Display Settings
+
+<img width="100%" src="https://github.com/user-attachments/assets/c619020c-b3ff-477c-82ff-6624675c27ab" />
+
+### <ins>NT Ultra 0.6-beta</ins>
+
+- Notification system introduced to replace all default (disruptive) alerts
+- Option to display notifications in page or as desktop.
+- Settings Sidebar restructured once again with a new Database Section
+- Settings Sidebar - Database section, for handling import/export/reset operations
+- Trackers module structure (rewritten)
+- Trackers Sidebar collapsed position adjustment
+- Trackers description for crypto/stocks adjusted
+- Trackers now open in current tab on click, new tab on middle click
+- Trackers can now be editted after creation. Right Click -> Edit
+- Trackers can now be created from JSONs (key extraction!)
+- Wallpapers can now be import/exported, note: exported files are usually ~20Kb, so wallpaper data strings make up the entire difference
+- New Label Styles (animated background textures, blur, stone, shine)
 
 ### <ins>NT Ultra 0.5-beta</ins>
 
@@ -13,6 +51,8 @@ sidebar_position: 6
 - Max Shortcut limit has been increased from 84 to 168
 - Shortcut scale on hover style adjustments
 - Adjustments to Blur Enabled UI
+
+<iframe width="100%" height="625" src="https://github.com/user-attachments/assets/28898a9d-e34a-455b-9ce5-32e9cf914bc6#t=999" title="GitHub video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### <ins>NT Ultra 0.2.2-beta</ins>
 

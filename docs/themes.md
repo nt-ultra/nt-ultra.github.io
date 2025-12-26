@@ -4,15 +4,15 @@ sidebar_position: 5
 
 # Theme Management
 
-:::note
-"Themes" do not consist of saved shortcuts or wallpapers
-:::
+NT Ultra's default state is also it's default theme. Any changes you make to settings can be saved as a new theme. Allowing you to switch between different looks pretty easily.
 
-NT Ultra's default state is also it's default theme. When you start to change settings, your configuration can be saved as a new theme. This makes it easy to switch between multiple different configurations on the fly.
+:::note
+"Themes" do not include shortcuts or wallpapers
+:::
 
 ## Saving Themes
 
-When saving a theme you'll be prompted to enter a name for the theme, and it will be saved into the list of themes to choose from.
+When saving a theme you'll be prompted to enter a name for the theme, and it will be saved into your list of themes to choose from.
 
 ## Exporting Themes
 

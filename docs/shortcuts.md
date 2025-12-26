@@ -14,10 +14,12 @@ You can create new shortcuts in a couple of ways
 - By dragging links into the shortcut grid
 - By dragging tabs from the `Tab Browser` into the shortcut grid
 - By importing saved shortcuts via `Settings` -> `Shortcuts`
+- By right clicking links on any website `Right click` -> `Turn into Shortcut`
+- By multi-selecting tabs `Right click` -> `Turn into Shortcut`
 
 ## Importing shortcuts
 
-Shortcuts are imported via file or clipboard in a simplified list format. The format looks something like this:
+Shortcuts are imported/exported via file or clipboard in a simplified list format. The format looks something like this:
 
 ```text
 website title favicon
@@ -38,8 +40,6 @@ https://example1.com
 https://example2.com Custom Title
 https://example3.com Example https://example.com/icon.png
 ```
-
-When exporting shortcuts, your custom titles and favicons are also saved in this format.
 
 ## Importing Firefox New Tab Page Shortcuts
 
