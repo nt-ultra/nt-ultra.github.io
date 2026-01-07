@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Tab Browser
 
-The Tab Browser is a convenient way to interact with your tabs from multiple windows to tab groups. You can
+The Tab Browser is a convenient way to interact with your tabs. From multiple windows, to tab groups. You can:
 
 - View a full list of tabs organized by window or tab group
 - Move tabs between windows or groups (drag & drop)

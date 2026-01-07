@@ -1,6 +1,24 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 ---
+
+### <ins>NT Ultra 0.9-beta</ins>
+
+- Settings Sidebar Sections are now collapsible!
+- Some "settings sidebar" naming conventions have been improved in source
+- Shortcut and context menus styles have been seperated into specific files
+- Weather trackers content updated to display as: `Light snow 🌨️, 23°F (feels like 14°F)`
+- "New" tracker status has been improved to differientate between, new based on pubdate, vs new based on changes in content
+- Fixed an issue where the label content selection in settings sidebar sometimes showed the wrong value
+- Some minor and much needed adjustments have been made to the initial page load animation
+- A "More" section added to the settings sidebar with links to documentation and github
+- New Label Setting to show/hide day cycle when using the digital clock
+- Content Labels max scaling (font size) has been increased
+- New Shortcut Setting to enable multi-line title labels
+- New searchbar providers: yandex
+- Folders.. finally.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/4DpNeAyFoV4?si=JOwj82zMw7zbbLOA" title="GitHub video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### <ins>NT Ultra 0.8-beta</ins>
 

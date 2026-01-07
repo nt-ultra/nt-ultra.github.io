@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Shortcuts
@@ -13,38 +13,14 @@ You can create new shortcuts in a couple of ways
 - Manually via the `+ New` shortcut button
 - By dragging links into the shortcut grid
 - By dragging tabs from the `Tab Browser` into the shortcut grid
-- By importing saved shortcuts via `Settings` -> `Shortcuts`
+- By importing saved shortcuts via `Settings` -> `Database` -> `Import`
 - By right clicking links on any website `Right click` -> `Turn into Shortcut`
 - By multi-selecting tabs `Right click` -> `Turn into Shortcut`
 
-## Importing shortcuts
+## Shortcut limits
 
-Shortcuts are imported/exported via file or clipboard in a simplified list format. The format looks something like this:
+In `Sidebar Settings` -> `Shortcuts`, there is a slider for max shortcuts, currently that limit is set to 168. This max limit refers to the amount of items in the shortcut grid (a made up value). So technically, it applies to the amount of folders OR shortcuts in the grid. For example, 168 folders can exist in the grid, but those folders do not have a defined "shortcut limit".
 
-```text
-website title favicon
-```
+## Folders
 
-Including `title` and `favicon` are completely optional, so the list could be as simple as:
-
-```text
-https://example1.com
-https://example2.com
-https://example3.com
-```
-
-Or a combination of data, such as:
-
-```text
-https://example1.com
-https://example2.com Custom Title
-https://example3.com Example https://example.com/icon.png
-```
-
-## Importing Firefox New Tab Page Shortcuts
-
-Unfortunately there isn't a way for the extension to fetch Firefox Home Page shortcuts automatically, but it can parse the shortcuts that are pinned when given the data.
-
-1. In Firefox, go to: about:config
-2. Search for: `browser.newtabpage.pinned`
-3. Copy the entire value and paste it when `importing from firefox`
+Folders let you organize shortcuts in whatever way you see fit, folders are a new feature (thus experimental).
